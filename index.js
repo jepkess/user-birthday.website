@@ -6,5 +6,6 @@ function thisdate(){
 function datevalidation(){
 if (isNaN(dd) || dd < 1 || dd > 31);
 alert("invalid date")
-document.getElementById("date")
+document.getElementById("date").value = null;
+document.getElementById("date").style.border("1px solid dark")
 }
