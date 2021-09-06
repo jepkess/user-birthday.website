@@ -2,12 +2,13 @@ body{
     /* background-color: rgb(88, 86, 84); */
 }
 body{
-    background-color: rgb(223, 172, 172);
+    background-color: rgb(223, 101, 101);
     border-radius: 10px;
 
 }
 .footer{
-    background-color: blue;
-    width: 100%;
+    /* background-color: blue; */
+    width: 80%;
     justify-content: center;
+    border-radius: 10px;
 }
